@@ -10,7 +10,6 @@ Currently working toward a cybersecurity role, starting with opportunities in he
 I'm seeking an opportunity in IT where I can contribute immediately, continue building technical experience, and move closer to my goal of becoming a cybersecurity analyst. Whether it's troubleshooting end-user issues or monitoring security logs, I’m ready to support teams and learn from every step of the journey.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ I'm seeking an opportunity in IT where I can contribute immediately, continue bu
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,7 +40,7 @@ I'm seeking an opportunity in IT where I can contribute immediately, continue bu
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
