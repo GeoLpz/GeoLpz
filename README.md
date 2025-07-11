@@ -13,7 +13,7 @@ I'm seeking an opportunity in IT where I can contribute immediately, continue bu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/GeoLpz/Active-Directory-Detection-Lab/tree/main">Acitve-Directory-Detection-Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/GeoLpz/Active-Directory-Detection-Lab/tree/main">Active_Directory_Detection_Lab</a>|
 | Network Troublehsooting in Virtual Environments | <a href="https://github.com/GeoLpz/Active-Directory-Detection-Lab/tree/main">Acitve-Directory-Detection-Lab</a>|
 | RDP Brute Force Simulation and Event Correlatoin  | <a href="https://github.com/GeoLpz/Active-Directory-Detection-Lab/tree/main">Acitve-Directory-Detection-Lab</a>||
 | Incident Response Planning and Execution      | SOC Automation Lab|
